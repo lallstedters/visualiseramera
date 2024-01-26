@@ -1012,7 +1012,7 @@
 "links":[
     {
       "source": "Flower",
-      "target": "Birdmaster"
+      "target": "BirdMaster"
     },
     {
       "source": "Flower",
@@ -1027,15 +1027,15 @@
       "target": "Mintchoco"
     },
     {
-      "source": "Birdmaster",
+      "source": "BirdMaster",
       "target": "kattmat"
     },
     {
-      "source": "Birdmaster",
+      "source": "BirdMaster",
       "target": "Aaron"
     },
     {
-      "source": "Birdmaster",
+      "source": "BirdMaster",
       "target": "Mintchoco"
     },
     {
