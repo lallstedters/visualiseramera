@@ -1,1346 +1,1789 @@
 {
-    "nodes":[
-    {
-      "alias": "ramranch",
-      "otherschool": "",
-      "startyear": "2019",
-      "gradyear": "6/1/2025",
-      "major": "Computer Science",
-      "degree": "Master in Science",
-      "interests": "My main hobbies include art (drawing) and game development, which I expect did in some way contribute to my choice of track (computer graphics). I am quite shy (social anxiety tends to do that), so for me the entire pandemic period was in some ways a good change.",
-      "learnexp": "Honestly I am not too sure what I will learn, and that might actually be a very good thing. Because I do not have a lot of knowledge in the field of information visualisation I reckon this course will actually help me get a grasp on the field.",
-      "relcourses": "I haven't really completed any course that is particularly relevant to the field, aside from courses to just help me get a handle on computer graphics and visualisation in general.",
-      "canvas": "Yes, but only a few times a week.",
-      "vis": 3,
-      "stat": 2,
-      "math": 3,
-      "draw": 10,
-      "comp": 8,
-      "programming": 5,
-      "graphics": 5,
-      "interaction": 6,
-      "userexp": 4,
-      "communication": 1,
-      "collab": 1,
-      "repository": 5
-    },
-    {
-      "alias": "Caterpillar Fungus",
-      "otherschool": "Only KTH",
-      "startyear": "2023",
-      "gradyear": "12/6/2025",
-      "major": "Media Technology",
-      "degree": "Master in Science",
-      "interests": "I am putting myself in an uncomfortable position in the two years at KTH so that I am forced to learn. I am a noob at programming and want to take it to another level by the time I graduate in 2025 so that I can build a viable product by the end of graduation.  My hobbies include cycling and playing football. I don't travel often and play computer games as I would like to.",
-      "learnexp": "I am interested in maps, so I would like to create a system to visualise stuff and create a map-based storytelling platform. ",
-      "relcourses": "I am not sure if I have taken any courses related to this. This seems an interesting, hard course, and I would like to force myself to learn. ",
-      "canvas": "Yes, but only a few times a week.",
-      "vis": 3,
-      "stat": 2,
-      "math": 2,
-      "draw": 2,
-      "comp": 8,
-      "programming": 4,
-      "graphics": 3,
-      "interaction": 4,
-      "userexp": 3,
-      "communication": 6,
-      "collab": 8,
-      "repository": 8
-    },
-    {
-      "alias": "tjsol",
-      "otherschool": "",
-      "startyear": "2023",
-      "gradyear": "6/1/2025",
-      "major": "Human-Computer Interaction",
-      "degree": "Master in Science",
-      "interests": "Web Development",
-      "learnexp": "I'd like to use my learnings in a professional setting.",
-      "relcourses": "Web Development, during my bachelor.",
-      "canvas": "Yes - several times a day.",
-      "vis": 5,
-      "stat": 3,
-      "math": 3,
-      "draw": 8,
-      "comp": 9,
-      "programming": 7,
-      "graphics": 2,
-      "interaction": 3,
-      "userexp": 6,
-      "communication": 4,
-      "collab": 6,
-      "repository": 10
-    },
-    {
-      "alias": "Rookie9",
-      "otherschool": "",
-      "startyear": "18",
-      "gradyear": "6/3/2025",
-      "major": "Computer Science",
-      "degree": "Master in Science",
-      "interests": "",
-      "learnexp": "How to effectively represent and analyze data through visualization. Want to learn more about the application. ",
-      "relcourses": "Data Visuliazation. In 2022 in China, Shanghai Jiaotong University.",
-      "canvas": "Yes - several times a day.",
-      "vis": 5,
-      "stat": 5,
-      "math": 6,
-      "draw": 4,
-      "comp": 6,
-      "programming": 5,
-      "graphics": 4,
-      "interaction": 5,
-      "userexp": 5,
-      "communication": 5,
-      "collab": 7,
-      "repository": 4
-    },
-    {
-      "alias": "matcha",
-      "otherschool": "HKUST (Hong Kong)",
-      "startyear": "2021",
-      "gradyear": "6/30/2025",
-      "major": "Chemical Engineering + AI",
-      "degree": "Bachelor in Engineering",
-      "interests": "Hello! I'm interested in learning how to incorporate AI into chemical engineering (hence my majors) like AI synthesis, data visualization and optimization. I like sports, crochet and piano.",
-      "learnexp": "I want to learn information visualization to better predict and present trends in chemical engineering.",
-      "relcourses": "In my home university, I took courses in data science using Python. I also learned how to present data with graphs in MATLAB and Excel. ",
-      "canvas": "Yes, but only a few times a week.",
-      "vis": 3,
-      "stat": 3,
-      "math": 6,
-      "draw": 5,
-      "comp": 5,
-      "programming": 3,
-      "graphics": 2,
-      "interaction": 3,
-      "userexp": 3,
-      "communication": 8,
-      "collab": 8,
-      "repository": 3
-    },
-    {
-      "alias": "Flower",
-      "otherschool": "Lund University",
-      "startyear": "2010",
-      "gradyear": "6/30/2025",
-      "major": "interactive media technology",
-      "degree": "Master in Science",
-      "interests": "I like the art and technology. I am interested in learning new knowledge, painting, traveling, watching movies, reading books, and hiking.",
-      "learnexp": "I want to improve my data visualization skills, and enhance my data analysis ability,",
-      "relcourses": "I learned some data analysis by python through Coursera last year. ",
-      "canvas": "Yes - several times a day.",
-      "vis": 3,
-      "stat": 3,
-      "math": 3,
-      "draw": 8,
-      "comp": 8,
-      "programming": 5,
-      "graphics": 1,
-      "interaction": 3,
-      "userexp": 10,
-      "communication": 10,
-      "collab": 10,
-      "repository": 8
-    },
-    {
-      "alias": "kapybara",
-      "otherschool": "",
-      "startyear": "2020",
-      "gradyear": "6/10/2025",
-      "major": "Computer Science",
-      "degree": "Master in Science",
-      "interests": "I like web design and want to work in front end development. In my spare time I enjoy different sports and spending time with my partner and dog.",
-      "learnexp": "I expect to learn new methods and software tools for visualization, and to be able to combine that with my other skills in software development.",
-      "relcourses": "I have taken courses in web devlopment, dynamic web and also 3D-modelling/visualisation. All of this at KTH.",
-      "canvas": "Yes - several times a day.",
-      "vis": 4,
-      "stat": 3,
-      "math": 7,
-      "draw": 4,
-      "comp": 8,
-      "programming": 7,
-      "graphics": 4,
-      "interaction": 6,
-      "userexp": 6,
-      "communication": 9,
-      "collab": 8,
-      "repository": 7
-    },
-    {
-      "alias": "Bebocchia ",
-      "otherschool": "",
-      "startyear": "2023",
-      "gradyear": "6/3/2025",
-      "major": "Media Technology",
-      "degree": "Master in Science",
-      "interests": "Part of a choir ",
-      "learnexp": "Honestly do not know too much ",
-      "relcourses": "I did a bit of programming in ReactJS ",
-      "canvas": "Yes - several times a day.",
-      "vis": 8,
-      "stat": 6,
-      "math": 8,
-      "draw": 1,
-      "comp": 5,
-      "programming": 5,
-      "graphics": 7,
-      "interaction": 5,
-      "userexp": 5,
-      "communication": 9,
-      "collab": 9,
-      "repository": 5
-    },
-    {
-      "alias": "stellarise",
-      "otherschool": "",
-      "startyear": "2019",
-      "gradyear": "9/1/2025",
-      "major": "Computer Science",
-      "degree": "Master in Science",
-      "interests": "games especially , sports , animation, technology ",
-      "learnexp": "Learn how to better use images to express ideas, understand and communicate",
-      "relcourses": "Bachelor OpenGL ,unity ,data analysis \n",
-      "canvas": "Yes - several times a day.",
-      "vis": 6,
-      "stat": 6,
-      "math": 4,
-      "draw": 6,
-      "comp": 8,
-      "programming": 8,
-      "graphics": 8,
-      "interaction": 7,
-      "userexp": 5,
-      "communication": 8,
-      "collab": 8,
-      "repository": 7
-    },
-    {
-      "alias": "Kakka",
-      "otherschool": "",
-      "startyear": "2017",
-      "gradyear": "7/1/2025",
-      "major": "Computer Science",
-      "degree": "Master in Science",
-      "interests": "",
-      "learnexp": "Anything that is fun or useful",
-      "relcourses": "Sadly no relevant course yet.",
-      "canvas": "Yes - several times a day.",
-      "vis": 1,
-      "stat": 3,
-      "math": 5,
-      "draw": 1,
-      "comp": 8,
-      "programming": 8,
-      "graphics": 3,
-      "interaction": 5,
-      "userexp": 4,
-      "communication": 9,
-      "collab": 9,
-      "repository": 9
-    },
-    {
-      "alias": "Beowulf",
-      "otherschool": "",
-      "startyear": "2023",
-      "gradyear": "6/1/2025",
-      "major": "Media Technology",
-      "degree": "Master in Science",
-      "interests": "I enjoy creative programming, electronic art and gaming. Movies and cooking.",
-      "learnexp": "Understand and use the Data Viz workflow to implement it in industry projects. ",
-      "relcourses": "Interaction Programming for the Dynamic Web, Multimodal Interaction",
-      "canvas": "Yes - several times a day.",
-      "vis": 6,
-      "stat": 3,
-      "math": 3,
-      "draw": 9,
-      "comp": 8,
-      "programming": 8,
-      "graphics": 7,
-      "interaction": 9,
-      "userexp": 6,
-      "communication": 9,
-      "collab": 10,
-      "repository": 7
-    },
-    {
-      "alias": "BirdMaster",
-      "otherschool": "",
-      "startyear": "2020",
-      "gradyear": "7/15/2026",
-      "major": "Media Technology",
-      "degree": "Master in Science",
-      "interests": "theatre, exercise, reading, games, student activities ",
-      "learnexp": "concepts and theory in Visualization, whys and hows, terms and aplications",
-      "relcourses": "Human interaction design, Machine learning, ",
-      "canvas": "Yes - several times a day.",
-      "vis": 4,
-      "stat": 6,
-      "math": 6,
-      "draw": 3,
-      "comp": 7,
-      "programming": 6,
-      "graphics": 3,
-      "interaction": 7,
-      "userexp": 7,
-      "communication": 7,
-      "collab": 7,
-      "repository": 6
-    },
-    {
-      "alias": "SargeSmoke",
-      "otherschool": "The Hong Kong University of Science and Technology",
-      "startyear": "2021",
-      "gradyear": "6/5/2026",
-      "major": "Computer Science, Business Administration",
-      "degree": "Bachelor in Engineering and Business Administration",
-      "interests": "Interest: Artificial Intelligence, Finance, Arts, Software Development. Hobbies: Sports (Volleyball, Badminton etc.), Gym, Video Games, Reading   ",
-      "learnexp": "I expect to learn the ability to select the best methods to program and visualise different types of information depending on the context and requirements. As I participate in multiple corporate projects, I expect that the skills I learn from this course can aid in my presentations to sponsors by visualising my findings as succinctly and clearly as possible.",
-      "relcourses": "My Home University (2021 - 2023): Python Programming, Artificial Intelligence",
-      "canvas": "Yes - several times a day.",
-      "vis": 7,
-      "stat": 5,
-      "math": 5,
-      "draw": 5,
-      "comp": 6,
-      "programming": 6,
-      "graphics": 1,
-      "interaction": 3,
-      "userexp": 3,
-      "communication": 7,
-      "collab": 7,
-      "repository": 7
-    },
-    {
-      "alias": "Weissach",
-      "otherschool": "Karlsruhe Institute of Technology",
-      "startyear": "Masters programme in October 2022 (BSc in 2018)",
-      "gradyear": "4/1/2025",
-      "major": "Engineering and Business Administration",
-      "degree": "Master in Science",
-      "interests": "I'm 24 years old from Germany. Manly I'm into cars, especially Porsche. Study wise there's machine learning and vehicle engineering. In my leisure time I love to play handball and watch Formula 1. ",
-      "learnexp": "In combination with machine learning and presentation of data.",
-      "relcourses": "I don't think that there was any.",
-      "canvas": "Yes - several times a day.",
-      "vis": 3,
-      "stat": 3,
-      "math": 6,
-      "draw": 4,
-      "comp": 6,
-      "programming": 4,
-      "graphics": 1,
-      "interaction": 1,
-      "userexp": 1,
-      "communication": 8,
-      "collab": 7,
-      "repository": 2
-    },
-    {
-      "alias": "Croco",
-      "otherschool": "University of Stuttgart",
-      "startyear": "2017",
-      "gradyear": "2/15/2026",
-      "major": " mechanical engineering",
-      "degree": "Master in Science",
-      "interests": "Cars, Doing Sports Boldering, cicling, Volleyball",
-      "learnexp": "new mind opening information / Ways to do a presentation on things",
-      "relcourses": "non",
-      "canvas": "today for the first tim (I'm an exchange student wich started newly)",
-      "vis": 6,
-      "stat": 6,
-      "math": 6,
-      "draw": 7,
-      "comp": 2,
-      "programming": 2,
-      "graphics": 8,
-      "interaction": 2,
-      "userexp": 2,
-      "communication": 7,
-      "collab": 8,
-      "repository": 5
-    },
-    {
-      "alias": "w",
-      "otherschool": "The Hong Kong University of Science and Technology",
-      "startyear": "2021",
-      "gradyear": "6/1/2025",
-      "major": "Data Science and Technology",
-      "degree": "Bachelor in Science",
-      "interests": "I enjoy badminton and food",
-      "learnexp": "I expect to learn how to present and convey data in a meaningful way. I expect I would need to present a lot with data in the future",
-      "relcourses": "In the first few years of my undergraduate courses in Hong Kong, I learnt a lot of ways to present data in probability and statistics, eg boxplots etc.",
-      "canvas": "Yes - several times a day.",
-      "vis": 6,
-      "stat": 6,
-      "math": 5,
-      "draw": 2,
-      "comp": 7,
-      "programming": 6,
-      "graphics": 2,
-      "interaction": 3,
-      "userexp": 3,
-      "communication": 6,
-      "collab": 6,
-      "repository": 7
-    },
-    {
-      "alias": "kattmat",
-      "otherschool": "",
-      "startyear": "2020",
-      "gradyear": "6/2/2025",
-      "major": "Media Technology",
-      "degree": "Master in Science",
-      "interests": "politics, carpentry, bread making and, reading and riksgropen",
-      "learnexp": "I expect to learn what types of visualisations there are and when they are suitable, I hope to use visualisations to explain the world that surrounds me. ",
-      "relcourses": "human computer interaction, intro to machine learning, statistics, basic programming",
-      "canvas": "Yes - several times a day.",
-      "vis": 4,
-      "stat": 3,
-      "math": 3,
-      "draw": 10,
-      "comp": 8,
-      "programming": 5,
-      "graphics": 1,
-      "interaction": 8,
-      "userexp": 8,
-      "communication": 8,
-      "collab": 8,
-      "repository": 4
-    },
-    {
-      "alias": "tofu",
-      "otherschool": "",
-      "startyear": "2022",
-      "gradyear": "6/1/2025",
-      "major": "Media Technology",
-      "degree": "Bachelor in Science",
-      "interests": "Painting, knitting, crocheting, web development",
-      "learnexp": "I expect to learn how to present data in a clear and intriguing manner, and what ways are best for certain sets of data",
-      "relcourses": "Can't think of any ",
-      "canvas": "Yes, but only a few times a week.",
-      "vis": 3,
-      "stat": 2,
-      "math": 5,
-      "draw": 7,
-      "comp": 8,
-      "programming": 7,
-      "graphics": 4,
-      "interaction": 7,
-      "userexp": 8,
-      "communication": 9,
-      "collab": 9,
-      "repository": 7
-    },
-    {
-      "alias": "gallopinto",
-      "otherschool": "",
-      "startyear": "2023",
-      "gradyear": "6/1/2025",
-      "major": "Machine Learning",
-      "degree": "Master in Science",
-      "interests": "I am from Nicaragua but lived a bit all over the place since being a teenager. I am interested in how to use AI/ML for sustainable development -- specifically how to help improve living conditions in Nicaragua. This is one of the main reasons why I decided to do a BSc in Data Science and AI, and why I am now doing a MSc now Machine Learning. My current interests are to learn as much as I can and find ways how to achieve my long term goal, while meeting interesting people like-minded. \nMy hobbies include hiking/camping, scuba diving, cooking and hanging with friends :)",
-      "learnexp": "How to present the results of my work in a meaningful and impactful way. As a Data Scientist and future ML engineer, I see the importance of not only build good models and get important insights from my data, but also to be able to present it. ",
-      "relcourses": "Data Analysis - during my BSc in 2022",
-      "canvas": "Yes - several times a day.",
-      "vis": 3,
-      "stat": 5,
-      "math": 5,
-      "draw": 3,
-      "comp": 6,
-      "programming": 5,
-      "graphics": 4,
-      "interaction": 7,
-      "userexp": 4,
-      "communication": 10,
-      "collab": 10,
-      "repository": 8
-    },
-    {
-      "alias": "numpy",
-      "otherschool": "",
-      "startyear": "2023",
-      "gradyear": "6/10/2025",
-      "major": "Machine Learning",
-      "degree": "Master in Science",
-      "interests": "Coding, machine learning, rock climbing",
-      "learnexp": "How to visualize data in correct and attractive visualizations",
-      "relcourses": "None",
-      "canvas": "Yes - several times a day.",
-      "vis": 5,
-      "stat": 9,
-      "math": 6,
-      "draw": 7,
-      "comp": 8,
-      "programming": 7,
-      "graphics": 1,
-      "interaction": 1,
-      "userexp": 2,
-      "communication": 7,
-      "collab": 7,
-      "repository": 10
-    },
-    {
-      "alias": "Kanelbulle",
-      "otherschool": "",
-      "startyear": "2020",
-      "gradyear": "6/16/2025",
-      "major": "Computer Science",
-      "degree": "Master in Science",
-      "interests": "I enjoy storytelling of many sorts - writing, art, etc. I especially enjoy videogames, mainly games where you get to build your \"own thing\"; like Cities: Skylines, Minecraft, the Sims, etc. I also really like factory-type games where you create your own flow of resources to build something greater. \n\nSince starting at KTH, I've been very interested in the chapter spex (theater production), taking on a large amount of responsibility there currently. ",
-      "learnexp": "My expectations are quite low, not because I don't expect the course to teach me valuable information, but rather because I am uncertain of WHAT I will learn. It should be noted that I'm feeling highly optimistic after the first lecture, so don't take that the wrong way :).\n\nSome of my expectations is that I can use what I learn when doing research and/or needing to present data. I think this will be especially useful when writing my master's thesis.",
-      "relcourses": "The courses I can think of are math courses: Calculus in one/several variables and Probability theory in statistics, which I took two-to-three years ago in my bachelor's.\nI have also used visualization in Human-Computer Interaction and Machine Learning, both two years ago in my bachelor's also. ",
-      "canvas": "Yes - several times a day.",
-      "vis": 3,
-      "stat": 5,
-      "math": 9,
-      "draw": 7,
-      "comp": 7,
-      "programming": 3,
-      "graphics": 2,
-      "interaction": 4,
-      "userexp": 2,
-      "communication": 8,
-      "collab": 2,
-      "repository": 2
-    },
-    {
-      "alias": "sackboy",
-      "otherschool": "",
-      "startyear": "2018",
-      "gradyear": "6/6/2026",
-      "major": "Computer Science",
-      "degree": "Master in Science",
-      "interests": "3D animation, programming, calisthenics, game development, art",
-      "learnexp": "I see it as a first semi-deep dive into the world of dataviz, since it's new to me. I would love to be able to use it within my 3D work.",
-      "relcourses": "Mostly programming and math related courses given by the 5 year computer science degree.",
-      "canvas": "Yes, but only a few times a week.",
-      "vis": 1,
-      "stat": 1,
-      "math": 6,
-      "draw": 3,
-      "comp": 8,
-      "programming": 3,
-      "graphics": 3,
-      "interaction": 2,
-      "userexp": 1,
-      "communication": 8,
-      "collab": 9,
-      "repository": 6
-    },
-    {
-      "alias": "blackcat",
-      "otherschool": "TU Darmstadt",
-      "startyear": "2019",
-      "gradyear": "3/1/2026",
-      "major": "Medical engineering ",
-      "degree": "Master in Science",
-      "interests": "Like sports, nature and baking",
-      "learnexp": "How to visualize 3D or mor dementional data",
-      "relcourses": "Visual Computing (at my home university)",
-      "canvas": "I just got to know it yesterday",
-      "vis": 6,
-      "stat": 5,
-      "math": 5,
-      "draw": 6,
-      "comp": 4,
-      "programming": 3,
-      "graphics": 4,
-      "interaction": 1,
-      "userexp": 1,
-      "communication": 7,
-      "collab": 6,
-      "repository": 2
-    },
-    {
-      "alias": "Shadowheart",
-      "otherschool": "",
-      "startyear": "2019",
-      "gradyear": "12/30/2024",
-      "major": "Media Technology",
-      "degree": "Master in Science",
-      "interests": "I like creating things and using design as a way of expression. On my free time, I also like playing video games.",
-      "learnexp": "I expect to learn how to visualize data in the best way. More specifically, what tools to use in order to do so. I feel like information in general is valuable, and therefore being able to visualize the essence of that data is valuable - which is something I hope to use in future work.",
-      "relcourses": "DD2258 Introduction to visualization - last year (KTH)",
-      "canvas": "Yes - several times a day.",
-      "vis": 2,
-      "stat": 1,
-      "math": 3,
-      "draw": 6,
-      "comp": 8,
-      "programming": 5,
-      "graphics": 1,
-      "interaction": 5,
-      "userexp": 5,
-      "communication": 9,
-      "collab": 9,
-      "repository": 7
-    },
-    {
-      "alias": "tpain",
-      "otherschool": "University of Washington (Seattle)",
-      "startyear": "2019",
-      "gradyear": "8/15/2024",
-      "major": "Computer Science, Computer Science: Data Science",
-      "degree": "Bachelor in Science",
-      "interests": "It is my first time abroad, and I am realizing travel is a major interest of mine. I chose to study computer science because I wanted to be a game developer, this is still my main interest almost a decade later. I am also very passionate about creating accessible computer science education for students from underprivileged backgrounds (such as myself) and have dedicated a lot of time at my home university working with such students. ",
-      "learnexp": "I need this course for my specific graduation requirements at my home university for my data science major. I chose this major so I would have an upper hand when entering the industry since I would have experience working with data in various situations. I think this class will be very helpful in furthering the tools and knowledge I will be applying to industry work (which is happening sooner rather than later).",
-      "relcourses": "University of Washington: Introduction to Data Management, Interaction Programming KTH: Advanced Topics in Visualization and Computer Graphics, Database Technology",
-      "canvas": "Yes - several times a day.",
-      "vis": 3,
-      "stat": 5,
-      "math": 4,
-      "draw": 3,
-      "comp": 7,
-      "programming": 6,
-      "graphics": 6,
-      "interaction": 5,
-      "userexp": 2,
-      "communication": 6,
-      "collab": 7,
-      "repository": 2
-    },
-    {
-      "alias": "ghostcat",
-      "otherschool": "",
-      "startyear": "2023",
-      "gradyear": "7/1/2025",
-      "major": "Human-Computer Interaction",
-      "degree": "Master in Science",
-      "interests": "Camera, Headphone, Computer Game, Cat",
-      "learnexp": "Information Visulization for scientific research. I want to purchase PhD about visulization of  user's behaviors pattern and psycological  marker in urban space.",
-      "relcourses": "I  completed my first master degree in architectural computation in UCL and my master thesis is about visulization and modeling of crowds behavior in media architecture.",
-      "canvas": "Yes - several times a day.",
-      "vis": 6,
-      "stat": 5,
-      "math": 5,
-      "draw": 10,
-      "comp": 10,
-      "programming": 8,
-      "graphics": 5,
-      "interaction": 10,
-      "userexp": 5,
-      "communication": 6,
-      "collab": 3,
-      "repository": 5
-    },
-    {
-      "alias": "cyan",
-      "otherschool": "National University of Singapore",
-      "startyear": "2021",
-      "gradyear": "5/1/2025",
-      "major": "Real Estate",
-      "degree": "Bachelor in Science",
-      "interests": "I love travelling, going to the gym and bowling.",
-      "learnexp": "I hope I can learn how to present data in a meaningful way.",
-      "relcourses": "Python, VBA, R; all a few semesters back",
-      "canvas": "Yes - several times a day.",
-      "vis": 1,
-      "stat": 8,
-      "math": 5,
-      "draw": 5,
-      "comp": 7,
-      "programming": 4,
-      "graphics": 4,
-      "interaction": 4,
-      "userexp": 3,
-      "communication": 10,
-      "collab": 10,
-      "repository": 3
-    },
-    {
-      "alias": "BlenderBender",
-      "otherschool": "No",
-      "startyear": "2019",
-      "gradyear": "1/17/2025",
-      "major": "Media Technology",
-      "degree": "Master in Science",
-      "interests": "Blender, 3D printing, growing",
-      "learnexp": "What works and what does not work for optimal information transfer for different kind of users in different kind of situations. ",
-      "relcourses": "Advanced graphics and interaction, 2023",
-      "canvas": "Yes - several times a day.",
-      "vis": 6,
-      "stat": 2,
-      "math": 3,
-      "draw": 6,
-      "comp": 8,
-      "programming": 8,
-      "graphics": 3,
-      "interaction": 8,
-      "userexp": 5,
-      "communication": 9,
-      "collab": 10,
-      "repository": 8
-    },
-    {
-      "alias": "Windy65",
-      "otherschool": "I'm studying in KTH",
-      "startyear": "2022",
-      "gradyear": "6/30/2024",
-      "major": "Electric Engineering",
-      "degree": "Master in Science",
-      "interests": "Fullfilling a big task interests me. I like playing instruments",
-      "learnexp": "Manipulate different visualization tools",
-      "relcourses": "not similar courses",
-      "canvas": "Yes, but only a few times a week.",
-      "vis": 2,
-      "stat": 8,
-      "math": 7,
-      "draw": 4,
-      "comp": 5,
-      "programming": 4,
-      "graphics": 3,
-      "interaction": 5,
-      "userexp": 6,
-      "communication": 8,
-      "collab": 8,
-      "repository": 7
-    },
-    {
-      "alias": "Bond, Jan Bond",
-      "otherschool": "",
-      "startyear": "2019",
-      "gradyear": "6/17/2025",
-      "major": "Computer Science",
-      "degree": "Master in Science",
-      "interests": "My biggest interests are related to technology, mostly math and problem solving related. I grew up painting a lot which have made me intersted in 3D art/modelling, but also procedural generation, texture generation and things like that. Other interstests is music, i play in keyboard in a pop band, and also movies and right now i play a lot of table tennis.",
-      "learnexp": "I hope to gain insight in how this field can be applied in a professional setting. I hope to get more confident in how to manage data, and program using data. I hope to learn about things that i don't know i want to learn about.",
-      "relcourses": "dd2258, dh2323 + machine learning, maths, programming courses",
-      "canvas": "Yes - several times a day.",
-      "vis": 3,
-      "stat": 3,
-      "math": 6,
-      "draw": 8,
-      "comp": 6,
-      "programming": 5,
-      "graphics": 7,
-      "interaction": 3,
-      "userexp": 2,
-      "communication": 6,
-      "collab": 5,
-      "repository": 7
-    },
-    {
-      "alias": "MGH552200",
-      "otherschool": "",
-      "startyear": "First Year of the master programme",
-      "gradyear": "6/17/2025",
-      "major": "Media Technology",
-      "degree": "Master in Science",
-      "interests": "I like music, including music deep listening, playing and production. ",
-      "learnexp": "My bachelor major is Information Management. I would want to learn how to apply right visualized methods for information explaination from the data perspective, especially from the standpoint of easy-understanding for the information receivers. ",
-      "relcourses": "Statistics (completed in bachelor study from National Central University in Taiwan in 2021)",
-      "canvas": "Yes - several times a day.",
-      "vis": 7,
-      "stat": 5,
-      "math": 6,
-      "draw": 4,
-      "comp": 8,
-      "programming": 8,
-      "graphics": 6,
-      "interaction": 8,
-      "userexp": 4,
-      "communication": 7,
-      "collab": 4,
-      "repository": 8
-    },
-    {
-      "alias": "John Wick",
-      "otherschool": "",
-      "startyear": "2022",
-      "gradyear": "6/30/2024",
-      "major": "Media Technology",
-      "degree": "Master in Science",
-      "interests": "My professional interests focus on machine learning and data science. My current skills for the future course project would be data preprocessing and data mining. Therefore, I hope to gain more skills on the visualization part. I like movies and video games as well.",
-      "learnexp": "Theories, practical experience of using appropriate tools to visualize complex information. I hope to pursue a data analyst/scientist career and I think skills of information visualization would be very helpful for me in this case.",
-      "relcourses": "DD2258 Introduction to Visualization, Computer Graphics and Image/Video Processing",
-      "canvas": "Yes - several times a day.",
-      "vis": 3,
-      "stat": 3,
-      "math": 4,
-      "draw": 5,
-      "comp": 6,
-      "programming": 5,
-      "graphics": 4,
-      "interaction": 3,
-      "userexp": 3,
-      "communication": 4,
-      "collab": 5,
-      "repository": 5
-    },
-    {
-      "alias": "YellowShyGuy",
-      "otherschool": "",
-      "startyear": "2023",
-      "gradyear": "8/1/2025",
-      "major": "Computer Science",
-      "degree": "Master in Science",
-      "interests": "Sports like skiing, cycling, running",
-      "learnexp": "A range of visualisation techniques that help me display a wide range of different data types",
-      "relcourses": "Online IBM course on Data Visualization. ",
-      "canvas": "Yes - several times a day.",
-      "vis": 3,
-      "stat": 7,
-      "math": 6,
-      "draw": 4,
-      "comp": 9,
-      "programming": 8,
-      "graphics": 4,
-      "interaction": 7,
-      "userexp": 4,
-      "communication": 8,
-      "collab": 7,
-      "repository": 7
-    },
-    {
-      "alias": "Sam Vimes",
-      "otherschool": "",
-      "startyear": "2019",
-      "gradyear": "6/11/2025",
-      "major": "Computer Science",
-      "degree": "Master in Science",
-      "interests": "Reading",
-      "learnexp": "how to make complex data legible through the magic of visualization",
-      "relcourses": "Dynamic web design at Uppsala university",
-      "canvas": "Yes, but only a few times a week.",
-      "vis": 3,
-      "stat": 3,
-      "math": 4,
-      "draw": 2,
-      "comp": 6,
-      "programming": 3,
-      "graphics": 1,
-      "interaction": 3,
-      "userexp": 2,
-      "communication": 3,
-      "collab": 5,
-      "repository": 7
-    },
-    {
-      "alias": "Frieren",
-      "otherschool": "",
-      "startyear": "2018",
-      "gradyear": "6/1/2025",
-      "major": "Computer Science",
-      "degree": "Master in Science",
-      "interests": "I love cooking, photography, music, hiking/scouting and traveling. In particular Indian and Japanese cooking and listening to vinyls.",
-      "learnexp": "How to choose how to display data with more than three dimensions and how to identify good and bad characteristics of real world data visualization",
-      "relcourses": "DH1624 in P4 2023 and DH2628 in P3 2023, at KTH",
-      "canvas": "Yes - several times a day.",
-      "vis": 7,
-      "stat": 6,
-      "math": 5,
-      "draw": 8,
-      "comp": 8,
-      "programming": 7,
-      "graphics": 5,
-      "interaction": 5,
-      "userexp": 6,
-      "communication": 6,
-      "collab": 8,
-      "repository": 9
-    },
-    {
-      "alias": "DiscoTechLola",
-      "otherschool": "",
-      "startyear": "2018",
-      "gradyear": "12/17/2024",
-      "major": "Media Technology",
-      "degree": "Master in Science",
-      "interests": "I love dancing, storytelling and eating good food.",
-      "learnexp": "I expect to learn how to generate a dataset/or retrieve a set and learn tools and techniques of how to make sense of it in a visual way. I would love to get enough tools to be able to carry out more projects in the future.",
-      "relcourses": "Programming courses both in KTH (2019-2024) and Stockholm University (2022-2023). ",
-      "canvas": "Yes - several times a day.",
-      "vis": 2,
-      "stat": 2,
-      "math": 3,
-      "draw": 4,
-      "comp": 3,
-      "programming": 3,
-      "graphics": 2,
-      "interaction": 4,
-      "userexp": 4,
-      "communication": 10,
-      "collab": 7,
-      "repository": 3
-    },
-    {
-      "alias": "Aaron",
-      "otherschool": "Tokyo University",
-      "startyear": "2023",
-      "gradyear": "6/1/2025",
-      "major": "Human-Computer Interaction",
-      "degree": "Master in Science",
-      "interests": "I'm a book nerd (including manga), cinephile, and music nerd (mainly rock n roll and specifically j-rock). I play football and skateboard.",
-      "learnexp": "I expect to learn the most avant-garde technologies in this field. I expect to use these skills in data journalism.",
-      "relcourses": "Media Programming, in my undergraduate school in 2018. I also learnt some online courses about d3.js last year.",
-      "canvas": "Yes - several times a day.",
-      "vis": 6,
-      "stat": 6,
-      "math": 7,
-      "draw": 8,
-      "comp": 8,
-      "programming": 6,
-      "graphics": 6,
-      "interaction": 7,
-      "userexp": 7,
-      "communication": 6,
-      "collab": 8,
-      "repository": 8
-    },
-    {
-      "alias": "GGer",
-      "otherschool": "No",
-      "startyear": "2023",
-      "gradyear": "6/15/2025",
-      "major": "Media Technology",
-      "degree": "Masters in Interactive Media Technology",
-      "interests": "I'm interested in ",
-      "learnexp": "Learn about Data Viz best practices",
-      "relcourses": "No",
-      "canvas": "Yes, but only a few times a week.",
-      "vis": 3,
-      "stat": 9,
-      "math": 5,
-      "draw": 4,
-      "comp": 8,
-      "programming": 6,
-      "graphics": 2,
-      "interaction": 5,
-      "userexp": 5,
-      "communication": 6,
-      "collab": 9,
-      "repository": 8
-    },
-    {
-      "alias": "Reisen",
-      "otherschool": "",
-      "startyear": "2023",
-      "gradyear": "7/1/2025",
-      "major": "Vehicle Engineering",
-      "degree": "Master in Science",
-      "interests": "painting, playing guitar",
-      "learnexp": "How to efficiently understand the requirements of visualization from others",
-      "relcourses": "data preprocessing, in my bachelor's school 2y ago",
-      "canvas": "Yes - several times a day.",
-      "vis": 3,
-      "stat": 5,
-      "math": 5,
-      "draw": 7,
-      "comp": 8,
-      "programming": 5,
-      "graphics": 6,
-      "interaction": 3,
-      "userexp": 2,
-      "communication": 4,
-      "collab": 5,
-      "repository": 3
-    },
-    {
-      "alias": "DrPavel",
-      "otherschool": "Only KTH",
-      "startyear": "2019",
-      "gradyear": "6/20/2025",
-      "major": "Computer Science",
-      "degree": "Master in Science",
-      "interests": "Reading, video games, socializing, working out, It's a mixed blend.",
-      "learnexp": "Visualization of Data",
-      "relcourses": "Introduction to visualization and CS courses from Datateknik",
-      "canvas": "Yes - several times a day.",
-      "vis": 4,
-      "stat": 4,
-      "math": 7,
-      "draw": 3,
-      "comp": 8,
-      "programming": 6,
-      "graphics": 5,
-      "interaction": 3,
-      "userexp": 5,
-      "communication": 8,
-      "collab": 9,
-      "repository": 5
-    },
-    {
-      "alias": "SannyKuro",
-      "otherschool": "KTH",
-      "startyear": "2023",
-      "gradyear": "8/8/2025",
-      "major": "Media Technology",
-      "degree": "Master in Science",
-      "interests": "Creative technologist, crafty, Video editor, film making, storytelling, visual effects, accessibility — these are few words that can describe the kind of work I do. Out of which accessibility is also included as I would like to work towards making information visualised into digestable bits even for the non-technical mass. ",
-      "learnexp": "I am interested in exploring the spatial aspect of information visualization, as I believe that representing numerical data in physical form can help to restore its meaning. With the constant exposure to large numbers on social media, many people have become desensitized to their significance. ",
-      "relcourses": "Probability and statistics, image processing",
-      "canvas": "Yes - several times a day.",
-      "vis": 5,
-      "stat": 5,
-      "math": 6,
-      "draw": 8,
-      "comp": 9,
-      "programming": 8,
-      "graphics": 9,
-      "interaction": 8,
-      "userexp": 7,
-      "communication": 9,
-      "collab": 8,
-      "repository": 6
-    },
-    {
-      "alias": "Mintchoco",
-      "otherschool": "",
-      "startyear": "2023",
-      "gradyear": "6/1/2025",
-      "major": "Media Technology",
-      "degree": "Master in Science",
-      "interests": "Gym workouts, dance, technology, reading, travelling, TV/Movies, games",
-      "learnexp": "I expect to get a more comprehensive and systematic understanding of information visualization. In addition to how to represent information in a more efficient and effective way. I would love to integrate outcome from this course with other fields within media technology, both for academia and industry. ",
-      "relcourses": "Statistics, Information management, 2014-18 at Trinity College Dublin; Google data analyst certificate course, 2022",
-      "canvas": "Yes - several times a day.",
-      "vis": 5,
-      "stat": 6,
-      "math": 7,
-      "draw": 1,
-      "comp": 6,
-      "programming": 7,
-      "graphics": 3,
-      "interaction": 3,
-      "userexp": 7,
-      "communication": 8,
-      "collab": 9,
-      "repository": 6
-    }
-   ], 
+  "nodes":[
+  {
+    "alias": "ramranch",
+    "otherschool": "",
+    "startyear": "2019",
+    "gradyear": "6/1/2025",
+    "major": "Computer Science",
+    "degree": "Master in Science",
+    "interests": "My main hobbies include art (drawing) and game development, which I expect did in some way contribute to my choice of track (computer graphics). I am quite shy (social anxiety tends to do that), so for me the entire pandemic period was in some ways a good change.",
+    "learnexp": "Honestly I am not too sure what I will learn, and that might actually be a very good thing. Because I do not have a lot of knowledge in the field of information visualisation I reckon this course will actually help me get a grasp on the field.",
+    "relcourses": "I haven't really completed any course that is particularly relevant to the field, aside from courses to just help me get a handle on computer graphics and visualisation in general.",
+    "canvas": "Yes, but only a few times a week.",
+    "vis": 3,
+    "stat": 2,
+    "math": 3,
+    "draw": 10,
+    "comp": 8,
+    "programming": 5,
+    "graphics": 5,
+    "interaction": 6,
+    "userexp": 4,
+    "communication": 1,
+    "collab": 1,
+    "repository": 5
+  },
+  {
+    "alias": "Caterpillar Fungus",
+    "otherschool": "Only KTH",
+    "startyear": "2023",
+    "gradyear": "12/6/2025",
+    "major": "Media Technology",
+    "degree": "Master in Science",
+    "interests": "I am putting myself in an uncomfortable position in the two years at KTH so that I am forced to learn. I am a noob at programming and want to take it to another level by the time I graduate in 2025 so that I can build a viable product by the end of graduation.  My hobbies include cycling and playing football. I don't travel often and play computer games as I would like to.",
+    "learnexp": "I am interested in maps, so I would like to create a system to visualise stuff and create a map-based storytelling platform. ",
+    "relcourses": "I am not sure if I have taken any courses related to this. This seems an interesting, hard course, and I would like to force myself to learn. ",
+    "canvas": "Yes, but only a few times a week.",
+    "vis": 3,
+    "stat": 2,
+    "math": 2,
+    "draw": 2,
+    "comp": 8,
+    "programming": 4,
+    "graphics": 3,
+    "interaction": 4,
+    "userexp": 3,
+    "communication": 6,
+    "collab": 8,
+    "repository": 8
+  },
+  {
+    "alias": "tjsol",
+    "otherschool": "",
+    "startyear": "2023",
+    "gradyear": "6/1/2025",
+    "major": "Human-Computer Interaction",
+    "degree": "Master in Science",
+    "interests": "Web Development",
+    "learnexp": "I'd like to use my learnings in a professional setting.",
+    "relcourses": "Web Development, during my bachelor.",
+    "canvas": "Yes - several times a day.",
+    "vis": 5,
+    "stat": 3,
+    "math": 3,
+    "draw": 8,
+    "comp": 9,
+    "programming": 7,
+    "graphics": 2,
+    "interaction": 3,
+    "userexp": 6,
+    "communication": 4,
+    "collab": 6,
+    "repository": 10
+  },
+  {
+    "alias": "Rookie9",
+    "otherschool": "",
+    "startyear": "18",
+    "gradyear": "6/3/2025",
+    "major": "Computer Science",
+    "degree": "Master in Science",
+    "interests": "",
+    "learnexp": "How to effectively represent and analyze data through visualization. Want to learn more about the application. ",
+    "relcourses": "Data Visuliazation. In 2022 in China, Shanghai Jiaotong University.",
+    "canvas": "Yes - several times a day.",
+    "vis": 5,
+    "stat": 5,
+    "math": 6,
+    "draw": 4,
+    "comp": 6,
+    "programming": 5,
+    "graphics": 4,
+    "interaction": 5,
+    "userexp": 5,
+    "communication": 5,
+    "collab": 7,
+    "repository": 4
+  },
+  {
+    "alias": "matcha",
+    "otherschool": "HKUST (Hong Kong)",
+    "startyear": "2021",
+    "gradyear": "6/30/2025",
+    "major": "Chemical Engineering + AI",
+    "degree": "Bachelor in Engineering",
+    "interests": "Hello! I'm interested in learning how to incorporate AI into chemical engineering (hence my majors) like AI synthesis, data visualization and optimization. I like sports, crochet and piano.",
+    "learnexp": "I want to learn information visualization to better predict and present trends in chemical engineering.",
+    "relcourses": "In my home university, I took courses in data science using Python. I also learned how to present data with graphs in MATLAB and Excel. ",
+    "canvas": "Yes, but only a few times a week.",
+    "vis": 3,
+    "stat": 3,
+    "math": 6,
+    "draw": 5,
+    "comp": 5,
+    "programming": 3,
+    "graphics": 2,
+    "interaction": 3,
+    "userexp": 3,
+    "communication": 8,
+    "collab": 8,
+    "repository": 3
+  },
+  {
+    "alias": "Flower",
+    "otherschool": "Lund University",
+    "startyear": "2010",
+    "gradyear": "6/30/2025",
+    "major": "interactive media technology",
+    "degree": "Master in Science",
+    "interests": "I like the art and technology. I am interested in learning new knowledge, painting, traveling, watching movies, reading books, and hiking.",
+    "learnexp": "I want to improve my data visualization skills, and enhance my data analysis ability,",
+    "relcourses": "I learned some data analysis by python through Coursera last year. ",
+    "canvas": "Yes - several times a day.",
+    "vis": 3,
+    "stat": 3,
+    "math": 3,
+    "draw": 8,
+    "comp": 8,
+    "programming": 5,
+    "graphics": 1,
+    "interaction": 3,
+    "userexp": 10,
+    "communication": 10,
+    "collab": 10,
+    "repository": 8
+  },
+  {
+    "alias": "kapybara",
+    "otherschool": "",
+    "startyear": "2020",
+    "gradyear": "6/10/2025",
+    "major": "Computer Science",
+    "degree": "Master in Science",
+    "interests": "I like web design and want to work in front end development. In my spare time I enjoy different sports and spending time with my partner and dog.",
+    "learnexp": "I expect to learn new methods and software tools for visualization, and to be able to combine that with my other skills in software development.",
+    "relcourses": "I have taken courses in web devlopment, dynamic web and also 3D-modelling/visualisation. All of this at KTH.",
+    "canvas": "Yes - several times a day.",
+    "vis": 4,
+    "stat": 3,
+    "math": 7,
+    "draw": 4,
+    "comp": 8,
+    "programming": 7,
+    "graphics": 4,
+    "interaction": 6,
+    "userexp": 6,
+    "communication": 9,
+    "collab": 8,
+    "repository": 7
+  },
+  {
+    "alias": "Bebocchia ",
+    "otherschool": "",
+    "startyear": "2023",
+    "gradyear": "6/3/2025",
+    "major": "Media Technology",
+    "degree": "Master in Science",
+    "interests": "Part of a choir ",
+    "learnexp": "Honestly do not know too much ",
+    "relcourses": "I did a bit of programming in ReactJS ",
+    "canvas": "Yes - several times a day.",
+    "vis": 8,
+    "stat": 6,
+    "math": 8,
+    "draw": 1,
+    "comp": 5,
+    "programming": 5,
+    "graphics": 7,
+    "interaction": 5,
+    "userexp": 5,
+    "communication": 9,
+    "collab": 9,
+    "repository": 5
+  },
+  {
+    "alias": "stellarise",
+    "otherschool": "",
+    "startyear": "2019",
+    "gradyear": "9/1/2025",
+    "major": "Computer Science",
+    "degree": "Master in Science",
+    "interests": "games especially , sports , animation, technology ",
+    "learnexp": "Learn how to better use images to express ideas, understand and communicate",
+    "relcourses": "Bachelor OpenGL ,unity ,data analysis \n",
+    "canvas": "Yes - several times a day.",
+    "vis": 6,
+    "stat": 6,
+    "math": 4,
+    "draw": 6,
+    "comp": 8,
+    "programming": 8,
+    "graphics": 8,
+    "interaction": 7,
+    "userexp": 5,
+    "communication": 8,
+    "collab": 8,
+    "repository": 7
+  },
+  {
+    "alias": "Kakka",
+    "otherschool": "",
+    "startyear": "2017",
+    "gradyear": "7/1/2025",
+    "major": "Computer Science",
+    "degree": "Master in Science",
+    "interests": "",
+    "learnexp": "Anything that is fun or useful",
+    "relcourses": "Sadly no relevant course yet.",
+    "canvas": "Yes - several times a day.",
+    "vis": 1,
+    "stat": 3,
+    "math": 5,
+    "draw": 1,
+    "comp": 8,
+    "programming": 8,
+    "graphics": 3,
+    "interaction": 5,
+    "userexp": 4,
+    "communication": 9,
+    "collab": 9,
+    "repository": 9
+  },
+  {
+    "alias": "Beowulf",
+    "otherschool": "",
+    "startyear": "2023",
+    "gradyear": "6/1/2025",
+    "major": "Media Technology",
+    "degree": "Master in Science",
+    "interests": "I enjoy creative programming, electronic art and gaming. Movies and cooking.",
+    "learnexp": "Understand and use the Data Viz workflow to implement it in industry projects. ",
+    "relcourses": "Interaction Programming for the Dynamic Web, Multimodal Interaction",
+    "canvas": "Yes - several times a day.",
+    "vis": 6,
+    "stat": 3,
+    "math": 3,
+    "draw": 9,
+    "comp": 8,
+    "programming": 8,
+    "graphics": 7,
+    "interaction": 9,
+    "userexp": 6,
+    "communication": 9,
+    "collab": 10,
+    "repository": 7
+  },
+  {
+    "alias": "BirdMaster",
+    "otherschool": "",
+    "startyear": "2020",
+    "gradyear": "7/15/2026",
+    "major": "Media Technology",
+    "degree": "Master in Science",
+    "interests": "theatre, exercise, reading, games, student activities ",
+    "learnexp": "concepts and theory in Visualization, whys and hows, terms and aplications",
+    "relcourses": "Human interaction design, Machine learning, ",
+    "canvas": "Yes - several times a day.",
+    "vis": 4,
+    "stat": 6,
+    "math": 6,
+    "draw": 3,
+    "comp": 7,
+    "programming": 6,
+    "graphics": 3,
+    "interaction": 7,
+    "userexp": 7,
+    "communication": 7,
+    "collab": 7,
+    "repository": 6
+  },
+  {
+    "alias": "SargeSmoke",
+    "otherschool": "The Hong Kong University of Science and Technology",
+    "startyear": "2021",
+    "gradyear": "6/5/2026",
+    "major": "Computer Science, Business Administration",
+    "degree": "Bachelor in Engineering and Business Administration",
+    "interests": "Interest: Artificial Intelligence, Finance, Arts, Software Development. Hobbies: Sports (Volleyball, Badminton etc.), Gym, Video Games, Reading   ",
+    "learnexp": "I expect to learn the ability to select the best methods to program and visualise different types of information depending on the context and requirements. As I participate in multiple corporate projects, I expect that the skills I learn from this course can aid in my presentations to sponsors by visualising my findings as succinctly and clearly as possible.",
+    "relcourses": "My Home University (2021 - 2023): Python Programming, Artificial Intelligence",
+    "canvas": "Yes - several times a day.",
+    "vis": 7,
+    "stat": 5,
+    "math": 5,
+    "draw": 5,
+    "comp": 6,
+    "programming": 6,
+    "graphics": 1,
+    "interaction": 3,
+    "userexp": 3,
+    "communication": 7,
+    "collab": 7,
+    "repository": 7
+  },
+  {
+    "alias": "Weissach",
+    "otherschool": "Karlsruhe Institute of Technology",
+    "startyear": "Masters programme in October 2022 (BSc in 2018)",
+    "gradyear": "4/1/2025",
+    "major": "Engineering and Business Administration",
+    "degree": "Master in Science",
+    "interests": "I'm 24 years old from Germany. Manly I'm into cars, especially Porsche. Study wise there's machine learning and vehicle engineering. In my leisure time I love to play handball and watch Formula 1. ",
+    "learnexp": "In combination with machine learning and presentation of data.",
+    "relcourses": "I don't think that there was any.",
+    "canvas": "Yes - several times a day.",
+    "vis": 3,
+    "stat": 3,
+    "math": 6,
+    "draw": 4,
+    "comp": 6,
+    "programming": 4,
+    "graphics": 1,
+    "interaction": 1,
+    "userexp": 1,
+    "communication": 8,
+    "collab": 7,
+    "repository": 2
+  },
+  {
+    "alias": "Croco",
+    "otherschool": "University of Stuttgart",
+    "startyear": "2017",
+    "gradyear": "2/15/2026",
+    "major": " mechanical engineering",
+    "degree": "Master in Science",
+    "interests": "Cars, Doing Sports Boldering, cicling, Volleyball",
+    "learnexp": "new mind opening information / Ways to do a presentation on things",
+    "relcourses": "non",
+    "canvas": "today for the first tim (I'm an exchange student wich started newly)",
+    "vis": 6,
+    "stat": 6,
+    "math": 6,
+    "draw": 7,
+    "comp": 2,
+    "programming": 2,
+    "graphics": 8,
+    "interaction": 2,
+    "userexp": 2,
+    "communication": 7,
+    "collab": 8,
+    "repository": 5
+  },
+  {
+    "alias": "w",
+    "otherschool": "The Hong Kong University of Science and Technology",
+    "startyear": "2021",
+    "gradyear": "6/1/2025",
+    "major": "Data Science and Technology",
+    "degree": "Bachelor in Science",
+    "interests": "I enjoy badminton and food",
+    "learnexp": "I expect to learn how to present and convey data in a meaningful way. I expect I would need to present a lot with data in the future",
+    "relcourses": "In the first few years of my undergraduate courses in Hong Kong, I learnt a lot of ways to present data in probability and statistics, eg boxplots etc.",
+    "canvas": "Yes - several times a day.",
+    "vis": 6,
+    "stat": 6,
+    "math": 5,
+    "draw": 2,
+    "comp": 7,
+    "programming": 6,
+    "graphics": 2,
+    "interaction": 3,
+    "userexp": 3,
+    "communication": 6,
+    "collab": 6,
+    "repository": 7
+  },
+  {
+    "alias": "kattmat",
+    "otherschool": "",
+    "startyear": "2020",
+    "gradyear": "6/2/2025",
+    "major": "Media Technology",
+    "degree": "Master in Science",
+    "interests": "politics, carpentry, bread making and, reading and riksgropen",
+    "learnexp": "I expect to learn what types of visualisations there are and when they are suitable, I hope to use visualisations to explain the world that surrounds me. ",
+    "relcourses": "human computer interaction, intro to machine learning, statistics, basic programming",
+    "canvas": "Yes - several times a day.",
+    "vis": 4,
+    "stat": 3,
+    "math": 3,
+    "draw": 10,
+    "comp": 8,
+    "programming": 5,
+    "graphics": 1,
+    "interaction": 8,
+    "userexp": 8,
+    "communication": 8,
+    "collab": 8,
+    "repository": 4
+  },
+  {
+    "alias": "tofu",
+    "otherschool": "",
+    "startyear": "2022",
+    "gradyear": "6/1/2025",
+    "major": "Media Technology",
+    "degree": "Bachelor in Science",
+    "interests": "Painting, knitting, crocheting, web development",
+    "learnexp": "I expect to learn how to present data in a clear and intriguing manner, and what ways are best for certain sets of data",
+    "relcourses": "Can't think of any ",
+    "canvas": "Yes, but only a few times a week.",
+    "vis": 3,
+    "stat": 2,
+    "math": 5,
+    "draw": 7,
+    "comp": 8,
+    "programming": 7,
+    "graphics": 4,
+    "interaction": 7,
+    "userexp": 8,
+    "communication": 9,
+    "collab": 9,
+    "repository": 7
+  },
+  {
+    "alias": "gallopinto",
+    "otherschool": "",
+    "startyear": "2023",
+    "gradyear": "6/1/2025",
+    "major": "Machine Learning",
+    "degree": "Master in Science",
+    "interests": "I am from Nicaragua but lived a bit all over the place since being a teenager. I am interested in how to use AI/ML for sustainable development -- specifically how to help improve living conditions in Nicaragua. This is one of the main reasons why I decided to do a BSc in Data Science and AI, and why I am now doing a MSc now Machine Learning. My current interests are to learn as much as I can and find ways how to achieve my long term goal, while meeting interesting people like-minded. \nMy hobbies include hiking/camping, scuba diving, cooking and hanging with friends :)",
+    "learnexp": "How to present the results of my work in a meaningful and impactful way. As a Data Scientist and future ML engineer, I see the importance of not only build good models and get important insights from my data, but also to be able to present it. ",
+    "relcourses": "Data Analysis - during my BSc in 2022",
+    "canvas": "Yes - several times a day.",
+    "vis": 3,
+    "stat": 5,
+    "math": 5,
+    "draw": 3,
+    "comp": 6,
+    "programming": 5,
+    "graphics": 4,
+    "interaction": 7,
+    "userexp": 4,
+    "communication": 10,
+    "collab": 10,
+    "repository": 8
+  },
+  {
+    "alias": "numpy",
+    "otherschool": "",
+    "startyear": "2023",
+    "gradyear": "6/10/2025",
+    "major": "Machine Learning",
+    "degree": "Master in Science",
+    "interests": "Coding, machine learning, rock climbing",
+    "learnexp": "How to visualize data in correct and attractive visualizations",
+    "relcourses": "None",
+    "canvas": "Yes - several times a day.",
+    "vis": 5,
+    "stat": 9,
+    "math": 6,
+    "draw": 7,
+    "comp": 8,
+    "programming": 7,
+    "graphics": 1,
+    "interaction": 1,
+    "userexp": 2,
+    "communication": 7,
+    "collab": 7,
+    "repository": 10
+  },
+  {
+    "alias": "Kanelbulle",
+    "otherschool": "",
+    "startyear": "2020",
+    "gradyear": "6/16/2025",
+    "major": "Computer Science",
+    "degree": "Master in Science",
+    "interests": "I enjoy storytelling of many sorts - writing, art, etc. I especially enjoy videogames, mainly games where you get to build your \"own thing\"; like Cities: Skylines, Minecraft, the Sims, etc. I also really like factory-type games where you create your own flow of resources to build something greater. \n\nSince starting at KTH, I've been very interested in the chapter spex (theater production), taking on a large amount of responsibility there currently. ",
+    "learnexp": "My expectations are quite low, not because I don't expect the course to teach me valuable information, but rather because I am uncertain of WHAT I will learn. It should be noted that I'm feeling highly optimistic after the first lecture, so don't take that the wrong way :).\n\nSome of my expectations is that I can use what I learn when doing research and/or needing to present data. I think this will be especially useful when writing my master's thesis.",
+    "relcourses": "The courses I can think of are math courses: Calculus in one/several variables and Probability theory in statistics, which I took two-to-three years ago in my bachelor's.\nI have also used visualization in Human-Computer Interaction and Machine Learning, both two years ago in my bachelor's also. ",
+    "canvas": "Yes - several times a day.",
+    "vis": 3,
+    "stat": 5,
+    "math": 9,
+    "draw": 7,
+    "comp": 7,
+    "programming": 3,
+    "graphics": 2,
+    "interaction": 4,
+    "userexp": 2,
+    "communication": 8,
+    "collab": 2,
+    "repository": 2
+  },
+  {
+    "alias": "sackboy",
+    "otherschool": "",
+    "startyear": "2018",
+    "gradyear": "6/6/2026",
+    "major": "Computer Science",
+    "degree": "Master in Science",
+    "interests": "3D animation, programming, calisthenics, game development, art",
+    "learnexp": "I see it as a first semi-deep dive into the world of dataviz, since it's new to me. I would love to be able to use it within my 3D work.",
+    "relcourses": "Mostly programming and math related courses given by the 5 year computer science degree.",
+    "canvas": "Yes, but only a few times a week.",
+    "vis": 1,
+    "stat": 1,
+    "math": 6,
+    "draw": 3,
+    "comp": 8,
+    "programming": 3,
+    "graphics": 3,
+    "interaction": 2,
+    "userexp": 1,
+    "communication": 8,
+    "collab": 9,
+    "repository": 6
+  },
+  {
+    "alias": "blackcat",
+    "otherschool": "TU Darmstadt",
+    "startyear": "2019",
+    "gradyear": "3/1/2026",
+    "major": "Medical engineering ",
+    "degree": "Master in Science",
+    "interests": "Like sports, nature and baking",
+    "learnexp": "How to visualize 3D or mor dementional data",
+    "relcourses": "Visual Computing (at my home university)",
+    "canvas": "I just got to know it yesterday",
+    "vis": 6,
+    "stat": 5,
+    "math": 5,
+    "draw": 6,
+    "comp": 4,
+    "programming": 3,
+    "graphics": 4,
+    "interaction": 1,
+    "userexp": 1,
+    "communication": 7,
+    "collab": 6,
+    "repository": 2
+  },
+  {
+    "alias": "Shadowheart",
+    "otherschool": "",
+    "startyear": "2019",
+    "gradyear": "12/30/2024",
+    "major": "Media Technology",
+    "degree": "Master in Science",
+    "interests": "I like creating things and using design as a way of expression. On my free time, I also like playing video games.",
+    "learnexp": "I expect to learn how to visualize data in the best way. More specifically, what tools to use in order to do so. I feel like information in general is valuable, and therefore being able to visualize the essence of that data is valuable - which is something I hope to use in future work.",
+    "relcourses": "DD2258 Introduction to visualization - last year (KTH)",
+    "canvas": "Yes - several times a day.",
+    "vis": 2,
+    "stat": 1,
+    "math": 3,
+    "draw": 6,
+    "comp": 8,
+    "programming": 5,
+    "graphics": 1,
+    "interaction": 5,
+    "userexp": 5,
+    "communication": 9,
+    "collab": 9,
+    "repository": 7
+  },
+  {
+    "alias": "tpain",
+    "otherschool": "University of Washington (Seattle)",
+    "startyear": "2019",
+    "gradyear": "8/15/2024",
+    "major": "Computer Science, Computer Science: Data Science",
+    "degree": "Bachelor in Science",
+    "interests": "It is my first time abroad, and I am realizing travel is a major interest of mine. I chose to study computer science because I wanted to be a game developer, this is still my main interest almost a decade later. I am also very passionate about creating accessible computer science education for students from underprivileged backgrounds (such as myself) and have dedicated a lot of time at my home university working with such students. ",
+    "learnexp": "I need this course for my specific graduation requirements at my home university for my data science major. I chose this major so I would have an upper hand when entering the industry since I would have experience working with data in various situations. I think this class will be very helpful in furthering the tools and knowledge I will be applying to industry work (which is happening sooner rather than later).",
+    "relcourses": "University of Washington: Introduction to Data Management, Interaction Programming KTH: Advanced Topics in Visualization and Computer Graphics, Database Technology",
+    "canvas": "Yes - several times a day.",
+    "vis": 3,
+    "stat": 5,
+    "math": 4,
+    "draw": 3,
+    "comp": 7,
+    "programming": 6,
+    "graphics": 6,
+    "interaction": 5,
+    "userexp": 2,
+    "communication": 6,
+    "collab": 7,
+    "repository": 2
+  },
+  {
+    "alias": "ghostcat",
+    "otherschool": "",
+    "startyear": "2023",
+    "gradyear": "7/1/2025",
+    "major": "Human-Computer Interaction",
+    "degree": "Master in Science",
+    "interests": "Camera, Headphone, Computer Game, Cat",
+    "learnexp": "Information Visulization for scientific research. I want to purchase PhD about visulization of  user's behaviors pattern and psycological  marker in urban space.",
+    "relcourses": "I  completed my first master degree in architectural computation in UCL and my master thesis is about visulization and modeling of crowds behavior in media architecture.",
+    "canvas": "Yes - several times a day.",
+    "vis": 6,
+    "stat": 5,
+    "math": 5,
+    "draw": 10,
+    "comp": 10,
+    "programming": 8,
+    "graphics": 5,
+    "interaction": 10,
+    "userexp": 5,
+    "communication": 6,
+    "collab": 3,
+    "repository": 5
+  },
+  {
+    "alias": "cyan",
+    "otherschool": "National University of Singapore",
+    "startyear": "2021",
+    "gradyear": "5/1/2025",
+    "major": "Real Estate",
+    "degree": "Bachelor in Science",
+    "interests": "I love travelling, going to the gym and bowling.",
+    "learnexp": "I hope I can learn how to present data in a meaningful way.",
+    "relcourses": "Python, VBA, R; all a few semesters back",
+    "canvas": "Yes - several times a day.",
+    "vis": 1,
+    "stat": 8,
+    "math": 5,
+    "draw": 5,
+    "comp": 7,
+    "programming": 4,
+    "graphics": 4,
+    "interaction": 4,
+    "userexp": 3,
+    "communication": 10,
+    "collab": 10,
+    "repository": 3
+  },
+  {
+    "alias": "BlenderBender",
+    "otherschool": "No",
+    "startyear": "2019",
+    "gradyear": "1/17/2025",
+    "major": "Media Technology",
+    "degree": "Master in Science",
+    "interests": "Blender, 3D printing, growing",
+    "learnexp": "What works and what does not work for optimal information transfer for different kind of users in different kind of situations. ",
+    "relcourses": "Advanced graphics and interaction, 2023",
+    "canvas": "Yes - several times a day.",
+    "vis": 6,
+    "stat": 2,
+    "math": 3,
+    "draw": 6,
+    "comp": 8,
+    "programming": 8,
+    "graphics": 3,
+    "interaction": 8,
+    "userexp": 5,
+    "communication": 9,
+    "collab": 10,
+    "repository": 8
+  },
+  {
+    "alias": "Windy65",
+    "otherschool": "I'm studying in KTH",
+    "startyear": "2022",
+    "gradyear": "6/30/2024",
+    "major": "Electric Engineering",
+    "degree": "Master in Science",
+    "interests": "Fullfilling a big task interests me. I like playing instruments",
+    "learnexp": "Manipulate different visualization tools",
+    "relcourses": "not similar courses",
+    "canvas": "Yes, but only a few times a week.",
+    "vis": 2,
+    "stat": 8,
+    "math": 7,
+    "draw": 4,
+    "comp": 5,
+    "programming": 4,
+    "graphics": 3,
+    "interaction": 5,
+    "userexp": 6,
+    "communication": 8,
+    "collab": 8,
+    "repository": 7
+  },
+  {
+    "alias": "Bond, Jan Bond",
+    "otherschool": "",
+    "startyear": "2019",
+    "gradyear": "6/17/2025",
+    "major": "Computer Science",
+    "degree": "Master in Science",
+    "interests": "My biggest interests are related to technology, mostly math and problem solving related. I grew up painting a lot which have made me intersted in 3D art/modelling, but also procedural generation, texture generation and things like that. Other interstests is music, i play in keyboard in a pop band, and also movies and right now i play a lot of table tennis.",
+    "learnexp": "I hope to gain insight in how this field can be applied in a professional setting. I hope to get more confident in how to manage data, and program using data. I hope to learn about things that i don't know i want to learn about.",
+    "relcourses": "dd2258, dh2323 + machine learning, maths, programming courses",
+    "canvas": "Yes - several times a day.",
+    "vis": 3,
+    "stat": 3,
+    "math": 6,
+    "draw": 8,
+    "comp": 6,
+    "programming": 5,
+    "graphics": 7,
+    "interaction": 3,
+    "userexp": 2,
+    "communication": 6,
+    "collab": 5,
+    "repository": 7
+  },
+  {
+    "alias": "MGH552200",
+    "otherschool": "",
+    "startyear": "First Year of the master programme",
+    "gradyear": "6/17/2025",
+    "major": "Media Technology",
+    "degree": "Master in Science",
+    "interests": "I like music, including music deep listening, playing and production. ",
+    "learnexp": "My bachelor major is Information Management. I would want to learn how to apply right visualized methods for information explaination from the data perspective, especially from the standpoint of easy-understanding for the information receivers. ",
+    "relcourses": "Statistics (completed in bachelor study from National Central University in Taiwan in 2021)",
+    "canvas": "Yes - several times a day.",
+    "vis": 7,
+    "stat": 5,
+    "math": 6,
+    "draw": 4,
+    "comp": 8,
+    "programming": 8,
+    "graphics": 6,
+    "interaction": 8,
+    "userexp": 4,
+    "communication": 7,
+    "collab": 4,
+    "repository": 8
+  },
+  {
+    "alias": "John Wick",
+    "otherschool": "",
+    "startyear": "2022",
+    "gradyear": "6/30/2024",
+    "major": "Media Technology",
+    "degree": "Master in Science",
+    "interests": "My professional interests focus on machine learning and data science. My current skills for the future course project would be data preprocessing and data mining. Therefore, I hope to gain more skills on the visualization part. I like movies and video games as well.",
+    "learnexp": "Theories, practical experience of using appropriate tools to visualize complex information. I hope to pursue a data analyst/scientist career and I think skills of information visualization would be very helpful for me in this case.",
+    "relcourses": "DD2258 Introduction to Visualization, Computer Graphics and Image/Video Processing",
+    "canvas": "Yes - several times a day.",
+    "vis": 3,
+    "stat": 3,
+    "math": 4,
+    "draw": 5,
+    "comp": 6,
+    "programming": 5,
+    "graphics": 4,
+    "interaction": 3,
+    "userexp": 3,
+    "communication": 4,
+    "collab": 5,
+    "repository": 5
+  },
+  {
+    "alias": "YellowShyGuy",
+    "otherschool": "",
+    "startyear": "2023",
+    "gradyear": "8/1/2025",
+    "major": "Computer Science",
+    "degree": "Master in Science",
+    "interests": "Sports like skiing, cycling, running",
+    "learnexp": "A range of visualisation techniques that help me display a wide range of different data types",
+    "relcourses": "Online IBM course on Data Visualization. ",
+    "canvas": "Yes - several times a day.",
+    "vis": 3,
+    "stat": 7,
+    "math": 6,
+    "draw": 4,
+    "comp": 9,
+    "programming": 8,
+    "graphics": 4,
+    "interaction": 7,
+    "userexp": 4,
+    "communication": 8,
+    "collab": 7,
+    "repository": 7
+  },
+  {
+    "alias": "Sam Vimes",
+    "otherschool": "",
+    "startyear": "2019",
+    "gradyear": "6/11/2025",
+    "major": "Computer Science",
+    "degree": "Master in Science",
+    "interests": "Reading",
+    "learnexp": "how to make complex data legible through the magic of visualization",
+    "relcourses": "Dynamic web design at Uppsala university",
+    "canvas": "Yes, but only a few times a week.",
+    "vis": 3,
+    "stat": 3,
+    "math": 4,
+    "draw": 2,
+    "comp": 6,
+    "programming": 3,
+    "graphics": 1,
+    "interaction": 3,
+    "userexp": 2,
+    "communication": 3,
+    "collab": 5,
+    "repository": 7
+  },
+  {
+    "alias": "Frieren",
+    "otherschool": "",
+    "startyear": "2018",
+    "gradyear": "6/1/2025",
+    "major": "Computer Science",
+    "degree": "Master in Science",
+    "interests": "I love cooking, photography, music, hiking/scouting and traveling. In particular Indian and Japanese cooking and listening to vinyls.",
+    "learnexp": "How to choose how to display data with more than three dimensions and how to identify good and bad characteristics of real world data visualization",
+    "relcourses": "DH1624 in P4 2023 and DH2628 in P3 2023, at KTH",
+    "canvas": "Yes - several times a day.",
+    "vis": 7,
+    "stat": 6,
+    "math": 5,
+    "draw": 8,
+    "comp": 8,
+    "programming": 7,
+    "graphics": 5,
+    "interaction": 5,
+    "userexp": 6,
+    "communication": 6,
+    "collab": 8,
+    "repository": 9
+  },
+  {
+    "alias": "DiscoTechLola",
+    "otherschool": "",
+    "startyear": "2018",
+    "gradyear": "12/17/2024",
+    "major": "Media Technology",
+    "degree": "Master in Science",
+    "interests": "I love dancing, storytelling and eating good food.",
+    "learnexp": "I expect to learn how to generate a dataset/or retrieve a set and learn tools and techniques of how to make sense of it in a visual way. I would love to get enough tools to be able to carry out more projects in the future.",
+    "relcourses": "Programming courses both in KTH (2019-2024) and Stockholm University (2022-2023). ",
+    "canvas": "Yes - several times a day.",
+    "vis": 2,
+    "stat": 2,
+    "math": 3,
+    "draw": 4,
+    "comp": 3,
+    "programming": 3,
+    "graphics": 2,
+    "interaction": 4,
+    "userexp": 4,
+    "communication": 10,
+    "collab": 7,
+    "repository": 3
+  },
+  {
+    "alias": "Aaron",
+    "otherschool": "Tokyo University",
+    "startyear": "2023",
+    "gradyear": "6/1/2025",
+    "major": "Human-Computer Interaction",
+    "degree": "Master in Science",
+    "interests": "I'm a book nerd (including manga), cinephile, and music nerd (mainly rock n roll and specifically j-rock). I play football and skateboard.",
+    "learnexp": "I expect to learn the most avant-garde technologies in this field. I expect to use these skills in data journalism.",
+    "relcourses": "Media Programming, in my undergraduate school in 2018. I also learnt some online courses about d3.js last year.",
+    "canvas": "Yes - several times a day.",
+    "vis": 6,
+    "stat": 6,
+    "math": 7,
+    "draw": 8,
+    "comp": 8,
+    "programming": 6,
+    "graphics": 6,
+    "interaction": 7,
+    "userexp": 7,
+    "communication": 6,
+    "collab": 8,
+    "repository": 8
+  },
+  {
+    "alias": "GGer",
+    "otherschool": "No",
+    "startyear": "2023",
+    "gradyear": "6/15/2025",
+    "major": "Media Technology",
+    "degree": "Masters in Interactive Media Technology",
+    "interests": "I'm interested in ",
+    "learnexp": "Learn about Data Viz best practices",
+    "relcourses": "No",
+    "canvas": "Yes, but only a few times a week.",
+    "vis": 3,
+    "stat": 9,
+    "math": 5,
+    "draw": 4,
+    "comp": 8,
+    "programming": 6,
+    "graphics": 2,
+    "interaction": 5,
+    "userexp": 5,
+    "communication": 6,
+    "collab": 9,
+    "repository": 8
+  },
+  {
+    "alias": "Reisen",
+    "otherschool": "",
+    "startyear": "2023",
+    "gradyear": "7/1/2025",
+    "major": "Vehicle Engineering",
+    "degree": "Master in Science",
+    "interests": "painting, playing guitar",
+    "learnexp": "How to efficiently understand the requirements of visualization from others",
+    "relcourses": "data preprocessing, in my bachelor's school 2y ago",
+    "canvas": "Yes - several times a day.",
+    "vis": 3,
+    "stat": 5,
+    "math": 5,
+    "draw": 7,
+    "comp": 8,
+    "programming": 5,
+    "graphics": 6,
+    "interaction": 3,
+    "userexp": 2,
+    "communication": 4,
+    "collab": 5,
+    "repository": 3
+  },
+  {
+    "alias": "DrPavel",
+    "otherschool": "Only KTH",
+    "startyear": "2019",
+    "gradyear": "6/20/2025",
+    "major": "Computer Science",
+    "degree": "Master in Science",
+    "interests": "Reading, video games, socializing, working out, It's a mixed blend.",
+    "learnexp": "Visualization of Data",
+    "relcourses": "Introduction to visualization and CS courses from Datateknik",
+    "canvas": "Yes - several times a day.",
+    "vis": 4,
+    "stat": 4,
+    "math": 7,
+    "draw": 3,
+    "comp": 8,
+    "programming": 6,
+    "graphics": 5,
+    "interaction": 3,
+    "userexp": 5,
+    "communication": 8,
+    "collab": 9,
+    "repository": 5
+  },
+  {
+    "alias": "SannyKuro",
+    "otherschool": "KTH",
+    "startyear": "2023",
+    "gradyear": "8/8/2025",
+    "major": "Media Technology",
+    "degree": "Master in Science",
+    "interests": "Creative technologist, crafty, Video editor, film making, storytelling, visual effects, accessibility — these are few words that can describe the kind of work I do. Out of which accessibility is also included as I would like to work towards making information visualised into digestable bits even for the non-technical mass. ",
+    "learnexp": "I am interested in exploring the spatial aspect of information visualization, as I believe that representing numerical data in physical form can help to restore its meaning. With the constant exposure to large numbers on social media, many people have become desensitized to their significance. ",
+    "relcourses": "Probability and statistics, image processing",
+    "canvas": "Yes - several times a day.",
+    "vis": 5,
+    "stat": 5,
+    "math": 6,
+    "draw": 8,
+    "comp": 9,
+    "programming": 8,
+    "graphics": 9,
+    "interaction": 8,
+    "userexp": 7,
+    "communication": 9,
+    "collab": 8,
+    "repository": 6
+  },
+  {
+    "alias": "Mintchoco",
+    "otherschool": "",
+    "startyear": "2023",
+    "gradyear": "6/1/2025",
+    "major": "Media Technology",
+    "degree": "Master in Science",
+    "interests": "Gym workouts, dance, technology, reading, travelling, TV/Movies, games",
+    "learnexp": "I expect to get a more comprehensive and systematic understanding of information visualization. In addition to how to represent information in a more efficient and effective way. I would love to integrate outcome from this course with other fields within media technology, both for academia and industry. ",
+    "relcourses": "Statistics, Information management, 2014-18 at Trinity College Dublin; Google data analyst certificate course, 2022",
+    "canvas": "Yes - several times a day.",
+    "vis": 5,
+    "stat": 6,
+    "math": 7,
+    "draw": 1,
+    "comp": 6,
+    "programming": 7,
+    "graphics": 3,
+    "interaction": 3,
+    "userexp": 7,
+    "communication": 8,
+    "collab": 9,
+    "repository": 6
+  }
+ ], 
 "hobbylinks":[
-    {
-      "source": "Flower",
+  {
+    "source": "Flower",
+    "target": "BirdMaster"
+  },
+  {
+    "source": "Flower",
+    "target": "kattmat"
+  },
+  {
+    "source": "Flower",
+    "target": "Aaron"
+  },
+  {
+    "source": "Flower",
+    "target": "Mintchoco"
+  },
+  {
+    "source": "BirdMaster",
+    "target": "kattmat"
+  },
+  {
+    "source": "BirdMaster",
+    "target": "Aaron"
+  },
+  {
+    "source": "BirdMaster",
+    "target": "Mintchoco"
+  },
+  {
+    "source": "kattmat",
+    "target": "Aaron"
+  },
+  {
+    "source": "kattmat",
+    "target": "Mintchoco"
+  },
+  {
+    "source": "Aaron",
+    "target": "Mintchoco"
+  },
+  {
+    "source": "Windy65",
+    "target": "Bond, Jan Bond"
+  },
+  {
+    "source": "Windy65",
+    "target": "MGH552200"
+  },
+  {
+    "source": "Windy65",
+    "target": "Frieren"
+  },
+  {
+    "source": "Windy65",
+    "target": "Aaron"
+  },
+  {
+    "source": "Windy65",
+    "target": "Reisen"
+  },
+  {
+    "source": "Bond, Jan Bond",
+    "target": "MGH552200"
+  },
+  {
+    "source": "Bond, Jan Bond",
+    "target": "Frieren"
+  },
+  {
+    "source": "Bond, Jan Bond",
+    "target": "Aaron"
+  },
+  {
+    "source": "Bond, Jan Bond",
+    "target": "Reisen"
+  },
+  {
+    "source": "MGH552200",
+    "target": "Frieren"
+  },
+  {
+    "source": "MGH552200",
+    "target": "Aaron"
+  },
+  {
+    "source": "MGH552200",
+    "target": "Reisen"
+  },
+  {
+    "source": "Frieren",
+    "target": "Aaron"
+  },
+  {
+    "source": "Frieren",
+    "target": "Reisen"
+  },
+  {
+    "source": "MGH552200",
+    "target": "Aaron"
+  },
+  {
+    "source": "Aaron",
+    "target": "Reisen"
+  },
+
+  {
+      "source": "ramranch",
+      "target": "Caterpillar Fungus"
+  },
+  {
+      "source": "ramranch",
+      "target": "stellarise"
+  },
+  {
+      "source": "ramranch",
       "target": "BirdMaster"
-    },
-    {
-      "source": "Flower",
-      "target": "kattmat"
-    },
-    {
-      "source": "Flower",
-      "target": "Aaron"
-    },
-    {
-      "source": "Flower",
+  },
+  {
+      "source": "ramranch",
+      "target": "Kanelbulle"
+  },
+  {
+      "source": "ramranch",
+      "target": "sackboy"
+  },
+  {
+      "source": "ramranch",
+      "target": "Shadowheart"
+  },
+  {
+      "source": "ramranch",
+      "target": "tpain"
+  },
+  {
+      "source": "ramranch",
+      "target": "John Wick"
+  },
+  {
+      "source": "ramranch",
+      "target": "DrPavel"
+  },
+  {
+      "source": "ramranch",
       "target": "Mintchoco"
-    },
-    {
+  },
+
+  {
+      "source": "Caterpillar Fungus",
+      "target": "stellarise"
+  },
+  {
+      "source": "Caterpillar Fungus",
+      "target": "BirdMaster"
+  },
+  {
+      "source": "Caterpillar Fungus",
+      "target": "Kanelbulle"
+  },
+  {
+      "source": "Caterpillar Fungus",
+      "target": "sackboy"
+  },
+  {
+      "source": "Caterpillar Fungus",
+      "target": "Shadowheart"
+  },
+  {
+      "source": "Caterpillar Fungus",
+      "target": "tpain"
+  },
+  {
+      "source": "Caterpillar Fungus",
+      "target": "John Wick"
+  },
+  {
+      "source": "Caterpillar Fungus",
+      "target": "DrPavel"
+  },
+  {
+      "source": "Caterpillar Fungus",
+      "target": "Mintchoco"
+  },
+
+  {
+      "source": "stellarise",
+      "target": "BirdMaster"
+  },
+  {
+      "source": "stellarise",
+      "target": "Kanelbulle"
+  },
+  {
+      "source": "stellarise",
+      "target": "sackboy"
+  },
+  {
+      "source": "stellarise",
+      "target": "Shadowheart"
+  },
+  {
+      "source": "stellarise",
+      "target": "tpain"
+  },
+  {
+      "source": "stellarise",
+      "target": "John Wick"
+  },
+  {
+      "source": "stellarise",
+      "target": "DrPavel"
+  },
+  {
+      "source": "stellarise",
+      "target": "Mintchoco"
+  },
+
+  {
       "source": "BirdMaster",
-      "target": "kattmat"
-    },
-    {
+      "target": "Kanelbulle"
+  },
+  {
       "source": "BirdMaster",
-      "target": "Aaron"
-    },
-    {
+      "target": "sackboy"
+  },
+  {
+      "source": "BirdMaster",
+      "target": "Shadowheart"
+  },
+  {
+      "source": "BirdMaster",
+      "target": "tpain"
+  },
+  {
+      "source": "BirdMaster",
+      "target": "John Wick"
+  },
+  {
+      "source": "BirdMaster",
+      "target": "DrPavel"
+  },
+  {
       "source": "BirdMaster",
       "target": "Mintchoco"
-    },
-    {
-      "source": "kattmat",
-      "target": "Aaron"
-    },
-    {
-      "source": "kattmat",
+  },
+
+  {
+      "source": "Kanelbulle",
+      "target": "sackboy"
+  },
+  {
+      "source": "Kanelbulle",
+      "target": "Shadowheart"
+  },
+  {
+      "source": "Kanelbulle",
+      "target": "tpain"
+  },
+  {
+      "source": "Kanelbulle",
+      "target": "John Wick"
+  },
+  {
+      "source": "Kanelbulle",
+      "target": "DrPavel"
+  },
+  {
+      "source": "Kanelbulle",
       "target": "Mintchoco"
-    },
-    {
-      "source": "Aaron",
+  },
+
+  {
+      "source": "sackboy",
+      "target": "Shadowheart"
+  },
+  {
+      "source": "sackboy",
+      "target": "tpain"
+  },
+  {
+      "source": "sackboy",
+      "target": "John Wick"
+  },
+  {
+      "source": "sackboy",
+      "target": "DrPavel"
+  },
+  {
+      "source": "sackboy",
       "target": "Mintchoco"
-    },
-    {
-      "source": "Windy65",
-      "target": "Bond, Jan Bond"
-    },
-    {
-      "source": "Windy65",
-      "target": "MGH552200"
-    },
-    {
-      "source": "Windy65",
-      "target": "Frieren"
-    },
-    {
-      "source": "Windy65",
-      "target": "Aaron"
-    },
-    {
-      "source": "Windy65",
-      "target": "Reisen"
-    },
-    {
-      "source": "Bond, Jan Bond",
-      "target": "MGH552200"
-    },
-    {
-      "source": "Bond, Jan Bond",
-      "target": "Frieren"
-    },
-    {
-      "source": "Bond, Jan Bond",
-      "target": "Aaron"
-    },
-    {
-      "source": "Bond, Jan Bond",
-      "target": "Reisen"
-    },
-    {
-      "source": "MGH552200",
-      "target": "Frieren"
-    },
-    {
-      "source": "MGH552200",
-      "target": "Aaron"
-    },
-    {
-      "source": "MGH552200",
-      "target": "Reisen"
-    },
-    {
-      "source": "Frieren",
-      "target": "Aaron"
-    },
-    {
-      "source": "Frieren",
-      "target": "Reisen"
-    },
-    {
-      "source": "MGH552200",
-      "target": "Aaron"
-    },
-    {
-      "source": "Aaron",
-      "target": "Reisen"
-    },
+  },
 
-    {
-        "source": "ramranch",
-        "target": "Caterpillar Fungus"
-    },
-    {
-        "source": "ramranch",
-        "target": "stellarise"
-    },
-    {
-        "source": "ramranch",
-        "target": "BirdMaster"
-    },
-    {
-        "source": "ramranch",
-        "target": "Kanelbulle"
-    },
-    {
-        "source": "ramranch",
-        "target": "sackboy"
-    },
-    {
-        "source": "ramranch",
-        "target": "Shadowheart"
-    },
-    {
-        "source": "ramranch",
-        "target": "tpain"
-    },
-    {
-        "source": "ramranch",
-        "target": "John Wick"
-    },
-    {
-        "source": "ramranch",
-        "target": "DrPavel"
-    },
-    {
-        "source": "ramranch",
-        "target": "Mintchoco"
-    },
+  {
+      "source": "Shadowheart",
+      "target": "tpain"
+  },
+  {
+      "source": "Shadowheart",
+      "target": "John Wick"
+  },
+  {
+      "source": "Shadowheart",
+      "target": "DrPavel"
+  },
+  {
+      "source": "Shadowheart",
+      "target": "Mintchoco"
+  },
 
-    {
-        "source": "Caterpillar Fungus",
-        "target": "stellarise"
-    },
-    {
-        "source": "Caterpillar Fungus",
-        "target": "BirdMaster"
-    },
-    {
-        "source": "Caterpillar Fungus",
-        "target": "Kanelbulle"
-    },
-    {
-        "source": "Caterpillar Fungus",
-        "target": "sackboy"
-    },
-    {
-        "source": "Caterpillar Fungus",
-        "target": "Shadowheart"
-    },
-    {
-        "source": "Caterpillar Fungus",
-        "target": "tpain"
-    },
-    {
-        "source": "Caterpillar Fungus",
-        "target": "John Wick"
-    },
-    {
-        "source": "Caterpillar Fungus",
-        "target": "DrPavel"
-    },
-    {
-        "source": "Caterpillar Fungus",
-        "target": "Mintchoco"
-    },
+  {
+      "source": "tpain",
+      "target": "John Wick"
+  },
+  {
+      "source": "tpain",
+      "target": "DrPavel"
+  },
+  {
+      "source": "tpain",
+      "target": "Mintchoco"
+  },
+  {
+      "source": "John Wick",
+      "target": "DrPavel"
+  },
+  {
+      "source": "John Wick",
+      "target": "Mintchoco"
+  },
+  {
+      "source": "DrPavel",
+      "target": "Mintchoco"
+  },
 
-    {
-        "source": "stellarise",
-        "target": "BirdMaster"
-    },
-    {
-        "source": "stellarise",
-        "target": "Kanelbulle"
-    },
-    {
-        "source": "stellarise",
-        "target": "sackboy"
-    },
-    {
-        "source": "stellarise",
-        "target": "Shadowheart"
-    },
-    {
-        "source": "stellarise",
-        "target": "tpain"
-    },
-    {
-        "source": "stellarise",
-        "target": "John Wick"
-    },
-    {
-        "source": "stellarise",
-        "target": "DrPavel"
-    },
-    {
-        "source": "stellarise",
-        "target": "Mintchoco"
-    },
+  {
+    "source": "ramranch",
+    "target": "Caterpillar Fungus"
+  },
+  {
+    "source": "ramranch",
+    "target": "kapybara"
+  },
+  {
+    "source": "ramranch",
+    "target": "Beowulf"
+  },
+  {
+    "source": "ramranch",
+    "target": "tofu"
+  },
+  {
+    "source": "ramranch",
+    "target": "gallopinto"
+  },
+  {
+    "source": "ramranch",
+    "target": "sackboy"
+  },
+  {
+    "source": "ramranch",
+    "target": "tpain"
+  },
+  {
+    "source": "Caterpillar Fungus",
+    "target": "kapybara"
+  },
+  {
+    "source": "Caterpillar Fungus",
+    "target": "Beowulf"
+  },
+  {
+    "source": "Caterpillar Fungus",
+    "target": "tofu"
+  },
+  {
+    "source": "Caterpillar Fungus",
+    "target": "gallopinto"
+  },
+  {
+    "source": "Caterpillar Fungus",
+    "target": "sackboy"
+  },
+  {
+    "source": "Caterpillar Fungus",
+    "target": "tpain"
+  },
+  {
+    "source": "kapybara",
+    "target": "Beowulf"
+  },
+  {
+    "source": "kapybara",
+    "target": "tofu"
+  },
+  {
+    "source": "kapybara",
+    "target": "gallopinto"
+  },
+  {
+    "source": "kapybara",
+    "target": "sackboy"
+  },
+  {
+    "source": "kapybara",
+    "target": "tpain"
+  },
+  {
+    "source": "Beowulf",
+    "target": "tofu"
+  },
+  {
+    "source": "Beowulf",
+    "target": "gallopinto"
+  },
+  {
+    "source": "Beowulf",
+    "target": "sackboy"
+  },
+  {
+    "source": "Beowulf",
+    "target": "tpain"
+  },
+  {
+    "source": "tofu",
+    "target": "gallopinto"
+  },
+  {
+    "source": "tofu",
+    "target": "sackboy"
+  },
+  {
+    "source": "tofu",
+    "target": "tpain"
+  },
+  {
+    "source": "gallopinto",
+    "target": "sackboy"
+  },
+  {
+    "source": "gallopinto",
+    "target": "tpain"
+  },
+  {
+    "source": "sackboy",
+    "target": "tpain"
+  },
 
-    {
-        "source": "BirdMaster",
-        "target": "Kanelbulle"
-    },
-    {
-        "source": "BirdMaster",
-        "target": "sackboy"
-    },
-    {
-        "source": "BirdMaster",
-        "target": "Shadowheart"
-    },
-    {
-        "source": "BirdMaster",
-        "target": "tpain"
-    },
-    {
-        "source": "BirdMaster",
-        "target": "John Wick"
-    },
-    {
-        "source": "BirdMaster",
-        "target": "DrPavel"
-    },
-    {
-        "source": "BirdMaster",
-        "target": "Mintchoco"
-    },
+  {
+    "source": "Caterpillar Fungus",
+    "target": "matcha"
+  },
+  {
+    "source": "Caterpillar Fungus",
+    "target": "kapybara"
+  },
+  {
+    "source": "Caterpillar Fungus",
+    "target": "stellarise"
+  },
+  {
+    "source": "Caterpillar Fungus",
+    "target": "w"
+  },
+  {
+    "source": "Caterpillar Fungus",
+    "target": "blackcat"
+  },
+  {
+    "source": "Caterpillar Fungus",
+    "target": "cyan"
+  },
+  {
+    "source": "Caterpillar Fungus",
+    "target": "Bond, Jan Bond"
+  },
+  {
+    "source": "Caterpillar Fungus",
+    "target": "YellowShyGuy"
+  },
+  {
+    "source": "Caterpillar Fungus",
+    "target": "DiscoTechLola"
+  },
+  {
+    "source": "Caterpillar Fungus",
+    "target": "Aaron"
+  },
+  {
+    "source": "Caterpillar Fungus",
+    "target": "DrPavel"
+  },
+  {
+    "source": "Caterpillar Fungus",
+    "target": "Mintchoco"
+  },
+  {
+    "source": "matcha",
+    "target": "kapybara"
+  },
+  {
+    "source": "matcha",
+    "target": "stellarise"
+  },
+  {
+    "source": "matcha",
+    "target": "w"
+  },
+  {
+    "source": "matcha",
+    "target": "blackcat"
+  },
+  {
+    "source": "matcha",
+    "target": "cyan"
+  },
+  {
+    "source": "matcha",
+    "target": "Bond, Jan Bond"
+  },
+  {
+    "source": "matcha",
+    "target": "YellowShyGuy"
+  },
+  {
+    "source": "matcha",
+    "target": "DiscoTechLola"
+  },
+  {
+    "source": "matcha",
+    "target": "Aaron"
+  },
+  {
+    "source": "matcha",
+    "target": "DrPavel"
+  },
+  {
+    "source": "matcha",
+    "target": "Mintchoco"
+  },
+  
+  {
+    "source": "kapybara",
+    "target": "stellarise"
+  },
+  {
+    "source": "kapybara",
+    "target": "w"
+  },
+  {
+    "source": "kapybara",
+    "target": "blackcat"
+  },
+  {
+    "source": "kapybara",
+    "target": "cyan"
+  },
+  {
+    "source": "kapybara",
+    "target": "Bond, Jan Bond"
+  },
+  {
+    "source": "kapybara",
+    "target": "YellowShyGuy"
+  },
+  {
+    "source": "kapybara",
+    "target": "DiscoTechLola"
+  },
+  {
+    "source": "kapybara",
+    "target": "Aaron"
+  },
+  {
+    "source": "kapybara",
+    "target": "DrPavel"
+  },
+  {
+    "source": "kapybara",
+    "target": "Mintchoco"
+  },
+  
 
-    {
-        "source": "Kanelbulle",
-        "target": "sackboy"
-    },
-    {
-        "source": "Kanelbulle",
-        "target": "Shadowheart"
-    },
-    {
-        "source": "Kanelbulle",
-        "target": "tpain"
-    },
-    {
-        "source": "Kanelbulle",
-        "target": "John Wick"
-    },
-    {
-        "source": "Kanelbulle",
-        "target": "DrPavel"
-    },
-    {
-        "source": "Kanelbulle",
-        "target": "Mintchoco"
-    },
+  {
+    "source": "stellarise",
+    "target": "w"
+  },
+  {
+    "source": "stellarise",
+    "target": "blackcat"
+  },
+  {
+    "source": "stellarise",
+    "target": "cyan"
+  },
+  {
+    "source": "stellarise",
+    "target": "Bond, Jan Bond"
+  },
+  {
+    "source": "stellarise",
+    "target": "YellowShyGuy"
+  },
+  {
+    "source": "stellarise",
+    "target": "DiscoTechLola"
+  },
+  {
+    "source": "stellarise",
+    "target": "Aaron"
+  },
+  {
+    "source": "stellarise",
+    "target": "DrPavel"
+  },
+  {
+    "source": "stellarise",
+    "target": "Mintchoco"
+  },
+  
 
-    {
-        "source": "sackboy",
-        "target": "Shadowheart"
-    },
-    {
-        "source": "sackboy",
-        "target": "tpain"
-    },
-    {
-        "source": "sackboy",
-        "target": "John Wick"
-    },
-    {
-        "source": "sackboy",
-        "target": "DrPavel"
-    },
-    {
-        "source": "sackboy",
-        "target": "Mintchoco"
-    },
+  {
+    "source": "w",
+    "target": "blackcat"
+  },
+  {
+    "source": "w",
+    "target": "cyan"
+  },
+  {
+    "source": "w",
+    "target": "Bond, Jan Bond"
+  },
+  {
+    "source": "w",
+    "target": "YellowShyGuy"
+  },
+  {
+    "source": "w",
+    "target": "DiscoTechLola"
+  },
+  {
+    "source": "w",
+    "target": "Aaron"
+  },
+  {
+    "source": "w",
+    "target": "DrPavel"
+  },
+  {
+    "source": "w",
+    "target": "Mintchoco"
+  },
+  
 
-    {
-        "source": "Shadowheart",
-        "target": "tpain"
-    },
-    {
-        "source": "Shadowheart",
-        "target": "John Wick"
-    },
-    {
-        "source": "Shadowheart",
-        "target": "DrPavel"
-    },
-    {
-        "source": "Shadowheart",
-        "target": "Mintchoco"
-    },
+  {
+    "source": "blackcat",
+    "target": "cyan"
+  },
+  {
+    "source": "blackcat",
+    "target": "Bond, Jan Bond"
+  },
+  {
+    "source": "blackcat",
+    "target": "YellowShyGuy"
+  },
+  {
+    "source": "blackcat",
+    "target": "DiscoTechLola"
+  },
+  {
+    "source": "blackcat",
+    "target": "Aaron"
+  },
+  {
+    "source": "blackcat",
+    "target": "DrPavel"
+  },
+  {
+    "source": "blackcat",
+    "target": "Mintchoco"
+  },
+  
 
-    {
-        "source": "tpain",
-        "target": "John Wick"
-    },
-    {
-        "source": "tpain",
-        "target": "DrPavel"
-    },
-    {
-        "source": "tpain",
-        "target": "Mintchoco"
-    },
-    {
-        "source": "John Wick",
-        "target": "DrPavel"
-    },
-    {
-        "source": "John Wick",
-        "target": "Mintchoco"
-    },
-    {
-        "source": "DrPavel",
-        "target": "Mintchoco"
-    }
+  {
+    "source": "cyan",
+    "target": "Bond, Jan Bond"
+  },
+  {
+    "source": "cyan",
+    "target": "YellowShyGuy"
+  },
+  {
+    "source": "cyan",
+    "target": "DiscoTechLola"
+  },
+  {
+    "source": "cyan",
+    "target": "Aaron"
+  },
+  {
+    "source": "cyan",
+    "target": "DrPavel"
+  },
+  {
+    "source": "cyan",
+    "target": "Mintchoco"
+  },
+  
+
+  {
+    "source": "Bond, Jan Bond",
+    "target": "YellowShyGuy"
+  },
+  {
+    "source": "Bond, Jan Bond",
+    "target": "DiscoTechLola"
+  },
+  {
+    "source": "Bond, Jan Bond",
+    "target": "Aaron"
+  },
+  {
+    "source": "Bond, Jan Bond",
+    "target": "DrPavel"
+  },
+  {
+    "source": "Bond, Jan Bond",
+    "target": "Mintchoco"
+  },
+  
+
+  {
+    "source": "YellowShyGuy",
+    "target": "DiscoTechLola"
+  },
+  {
+    "source": "YellowShyGuy",
+    "target": "Aaron"
+  },
+  {
+    "source": "YellowShyGuy",
+    "target": "DrPavel"
+  },
+  {
+    "source": "YellowShyGuy",
+    "target": "Mintchoco"
+  },
+  
+
+
+  {
+    "source": "DiscoTechLola",
+    "target": "Aaron"
+  },
+  {
+    "source": "DiscoTechLola",
+    "target": "DrPavel"
+  },
+  {
+    "source": "DiscoTechLola",
+    "target": "Mintchoco"
+  },
+
+  {
+    "source": "Aaron",
+    "target": "DrPavel"
+  },
+  {
+    "source": "Aaron",
+    "target": "Mintchoco"
+  },
+  {
+    "source": "DrPavel",
+    "target": "Mintchoco"
+  }
 ]
 }
